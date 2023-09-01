@@ -1,0 +1,9 @@
+com/azizzakiryarov/awsimageupload/config/AmazonConfig.class
+com/azizzakiryarov/awsimageupload/profile/UserProfileService.class
+com/azizzakiryarov/awsimageupload/backet/BucketName.class
+com/azizzakiryarov/awsimageupload/filestore/FileStore.class
+com/azizzakiryarov/awsimageupload/datastore/FakeUserProfileDataStore.class
+com/azizzakiryarov/awsimageupload/profile/UserProfile.class
+com/azizzakiryarov/awsimageupload/profile/UserProfileController.class
+com/azizzakiryarov/awsimageupload/profile/UserProfileDataAccessService.class
+com/azizzakiryarov/awsimageupload/AwsImageUploadApplication.class
