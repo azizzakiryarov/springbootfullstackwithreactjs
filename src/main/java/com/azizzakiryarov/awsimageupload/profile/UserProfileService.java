@@ -81,4 +81,17 @@ public class UserProfileService {
             throw new IllegalStateException("Cannot upload empty file [ " + file.getSize() + "]...");
         }
     }
+
+    public byte[] downloadUserProfileImage(UUID userProfileId) {
+
+        UserProfile user = getUserProfileOrThrow(userProfileId);
+
+        String path = String.format("%s/%s",
+                BucketName.PROFILE_IMAGE.getBacketName(),
+                user.getUserProfileId());
+
+        return user.getUserProfileImageLink()
+                .map(key -> fileStore.download(path, key))
+                .orElse(new byte[0]);
+    }
 }

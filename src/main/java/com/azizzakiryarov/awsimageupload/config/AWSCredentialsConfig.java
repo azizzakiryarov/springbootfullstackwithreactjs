@@ -24,9 +24,6 @@ public class AWSCredentialsConfig {
         String accessKey = awsCredentialsProvider().getCredentials().getAWSAccessKeyId();
         String secretKey = awsCredentialsProvider().getCredentials().getAWSSecretKey();
 
-        System.out.println(accessKey);
-        System.out.println(secretKey);
-
         AWSCredentials awsCredentials = new BasicAWSCredentials(
                 accessKey,
                 secretKey);

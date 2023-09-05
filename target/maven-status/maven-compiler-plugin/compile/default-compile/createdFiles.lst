@@ -1,4 +1,4 @@
-com/azizzakiryarov/awsimageupload/config/AmazonConfig.class
+com/azizzakiryarov/awsimageupload/config/AWSCredentialsConfig.class
 com/azizzakiryarov/awsimageupload/profile/UserProfileService.class
 com/azizzakiryarov/awsimageupload/backet/BucketName.class
 com/azizzakiryarov/awsimageupload/filestore/FileStore.class
