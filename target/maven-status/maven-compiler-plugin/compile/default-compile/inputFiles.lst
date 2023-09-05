@@ -1,9 +1,0 @@
-/Users/azizzakiryarov/IdeaProjects/springbootfullstackwithreactjs/src/main/java/com/azizzakiryarov/awsimageupload/AwsImageUploadApplication.java
-/Users/azizzakiryarov/IdeaProjects/springbootfullstackwithreactjs/src/main/java/com/azizzakiryarov/awsimageupload/config/AWSCredentialsConfig.java
-/Users/azizzakiryarov/IdeaProjects/springbootfullstackwithreactjs/src/main/java/com/azizzakiryarov/awsimageupload/profile/UserProfile.java
-/Users/azizzakiryarov/IdeaProjects/springbootfullstackwithreactjs/src/main/java/com/azizzakiryarov/awsimageupload/profile/UserProfileService.java
-/Users/azizzakiryarov/IdeaProjects/springbootfullstackwithreactjs/src/main/java/com/azizzakiryarov/awsimageupload/datastore/FakeUserProfileDataStore.java
-/Users/azizzakiryarov/IdeaProjects/springbootfullstackwithreactjs/src/main/java/com/azizzakiryarov/awsimageupload/profile/UserProfileDataAccessService.java
-/Users/azizzakiryarov/IdeaProjects/springbootfullstackwithreactjs/src/main/java/com/azizzakiryarov/awsimageupload/profile/UserProfileController.java
-/Users/azizzakiryarov/IdeaProjects/springbootfullstackwithreactjs/src/main/java/com/azizzakiryarov/awsimageupload/filestore/FileStore.java
-/Users/azizzakiryarov/IdeaProjects/springbootfullstackwithreactjs/src/main/java/com/azizzakiryarov/awsimageupload/backet/BucketName.java
